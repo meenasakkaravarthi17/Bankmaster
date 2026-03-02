@@ -1,1 +1,0 @@
-// JavaScript for timer and scoring
